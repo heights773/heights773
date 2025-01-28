@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, World!
+```swift
+let name = "Elton Ortiz"
+let pronouns = "he/him/his"
 
-<!--
-**heights773/heights773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+var title = "Global Support Engineer"
+var location = "Chicago, IL, USA"
+var interests = ["Jasper 🐶", "houseplants", "music", "UFC", "gaming"]
+```
+# More about me
 
-Here are some ideas to get you started:
+An aspiring mobile iOS engineer, actively honing my skills and learning under the guidance of a mentor at my current company. Before diving into the tech world, I worked at Apple's flagship location here in Chicago, where my passion for innovative technology and user-friendly design began to take root.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of work, you'll likely find me exploring Chicago's food scene, discovering new restaurants, or spending quality time with my dog, Jasper. Looking forward to connecting with others in the tech community and sharing ideas!
